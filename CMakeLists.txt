@@ -3,4 +3,4 @@ project(ChainOfResponsibilityDesignPattern)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ChainOfResponsibilityDesignPattern main.cpp)
+add_executable(ChainOfResponsibilityDesignPattern main.cpp Handler.cpp Handler.h SpecialHandler.cpp SpecialHandler.h)

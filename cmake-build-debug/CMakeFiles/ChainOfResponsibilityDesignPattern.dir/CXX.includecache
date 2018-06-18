@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/Handler.cpp
+Handler.h
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/Handler.h
+
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/Handler.h
+iostream
+-
+
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/SpecialHandler.cpp
+SpecialHandler.h
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/SpecialHandler.h
+
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/SpecialHandler.h
+Handler.h
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/Handler.h
+iostream
+-
+
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/main.cpp
+iostream
+-
+string
+-
+memory
+-
+Handler.h
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/Handler.h
+SpecialHandler.h
+C:/Users/pc/CLionProjects/ChainOfResponsibilityDesignPattern/SpecialHandler.h
+
